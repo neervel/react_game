@@ -7,7 +7,7 @@ The basic version of game allows you: play "Tic-Tac-Toe" (with your friend, for 
 ## My future steps are:
 
 - [x] Show postition of each step in history;
-- [ ] Show selected step in history;
+- [x] Show selected step in history;
 - [ ] Rewrite component Board with cycle rendering instead of hard-coding;
 - [ ] Add switch to sort hostory in  ASC or DESC;
 - [ ] Highlight 3 winner's squares;
